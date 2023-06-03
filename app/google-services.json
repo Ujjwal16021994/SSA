@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777206955203",
+    "project_id": "ssacademy-f93a1",
+    "storage_bucket": "ssacademy-f93a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777206955203:android:45fdae62d1112b9f813676",
+        "android_client_info": {
+          "package_name": "com.example.ssacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777206955203-v8q0j07api4ntpekhtrfgoar74r3rpjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2UFqL2Xay8JFTa1x4ShRqw-mGi5v2WEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777206955203-v8q0j07api4ntpekhtrfgoar74r3rpjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
